@@ -12,7 +12,7 @@
               name="co-instagram" class="i1" scale="1" /></i></a>
         <a href="https://www.facebook.com/edgarjoel.sanchez.12/" class="facebook" target="_blank"><i><v-icon
               name="bi-facebook" class="i1" scale="1" /></i></a>
-        <a href="https://www.linkedin.com/in/edgar-sanchez-lascano-ba8179213/" class="github" target="_blank"><i><v-icon
+        <a href="https://github.com/EdgarJoel123" class="github" target="_blank"><i><v-icon
               name="co-github" class="i1" scale="1" /></i></a>
         <a href="https://www.linkedin.com/in/edgar-sanchez-lascano-ba8179213/" class="linkedin" target="_blank"><i><v-icon name="bi-linkedin" class="i1" scale="1" /></i></a>
       </div>

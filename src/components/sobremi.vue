@@ -70,7 +70,7 @@ export default {
 
 
 
-                <a class="btn-solid-reg" href="/ruta/al/archivo/curriculum.pdf" download="curriculum.pdf">
+                <a class="btn-solid-reg" href="https://utaedu-my.sharepoint.com/:b:/g/personal/esanchez1169_uta_edu_ec/EZQ8HqyVClFGqnsMP7HNIJQBbYgjvid8VZAFDJeVzb52aQ?e=vAXcZK" target="_blank">
                   Curriculum <v-icon name="hi-download" scale="1.2" class="i1" />
                 </a>
 

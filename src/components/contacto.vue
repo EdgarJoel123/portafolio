@@ -11,14 +11,14 @@
   <div class="container">
 
     <div class="section-title">
-        <h2 style="color: azure;">Contáctame</h2>
+        <h2 style="color: #083a63;">Contáctame</h2>
       </div>
     
 
     <div class="row contact-info section-header wow fadeInUp">
       <div class="col-md-4">
         <div class="contact-address">
-            <a href="" class="ii1"><i><v-icon name="md-locationon" class="i1" scale="1.7" fill="white"/></i></a>
+            <a class="ii1"><i><v-icon name="md-locationon" class="i1" scale="1.7" fill="white"/></i></a>
           <h3>Dirección</h3>
           <address class="wow fadeInUp" data-wow-delay="0.4s">
             <p>Av. Las What Disney<br>Platón<br>Ambato-Ecuador
@@ -29,17 +29,17 @@
 
       <div class="col-md-4">
         <div class="contact-phone">
-            <a href="" class="ii1"><i><v-icon name="fa-phone-alt" class="i1" scale="1.7" fill="white"/></i></a>
+            <a target="_blank" class="ii1"><i><v-icon name="fa-phone-alt" class="i1" scale="1.7" fill="white"/></i></a>
           <h3>Contacto</h3>
-          <p><a href="https://api.whatsapp.com/send?phone=593989353272&text=%C2%A1Hola%21%20Me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n">+593 989353272</a></p>
+          <p><a href="https://api.whatsapp.com/send?phone=593989353272&text=%C2%A1Hola%21%20Me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n" target="_blank" >+593 989353272</a></p>
         </div>
       </div>
 
       <div class="col-md-4">
         <div class="Email">
-         <a href="" class="ii1"><i><v-icon name="hi-solid-mail" class="i1" scale="1.7" fill="white"/></i></a>
+         <a class="ii1"><i><v-icon name="hi-solid-mail" class="i1" scale="1.7" fill="white"/></i></a>
           <h3>Email</h3>
-          <p><a href="mailto:esanchez11696.edu.ec">esanchez11696@uta.edu.ec</a></p>
+          <p><a href="mailto:esanchez11696.edu.ec" target="_blank">esanchez11696@uta.edu.ec</a></p>
         </div>
       </div>
     </div>
@@ -75,7 +75,7 @@ font-size: 18px;
 }
 
 .ii1:hover {
-  background: #fca311;
+  background: #083a63;
   color: #fff;
   text-decoration: none;
 }
@@ -115,7 +115,7 @@ font-size: 18px;
 
 #contact .section-header h3 {
   
-  color: #c59a6d;
+  color: #175e07;
 }
 
 #contact .section-header h3::before {
@@ -144,7 +144,7 @@ font-size: 18px;
 
 #contact .contact-info .tel {
   
-  color: #fca311;
+  color: #034d07;
 }
 
 #contact .contact-info address,
@@ -166,7 +166,7 @@ font-size: 18px;
 }
 
 #contact .contact-info a:hover {
-  color: #fca311;
+  color: #034d07;
 }
 
 
@@ -174,7 +174,7 @@ font-size: 18px;
   margin-left: auto;
   width: 100%;
   height: 400px;
-  border: 5px solid #fca311;
+  border: 5px solid #034d07;
 }
 
 

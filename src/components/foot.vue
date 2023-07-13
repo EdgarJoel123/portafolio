@@ -70,7 +70,7 @@
 }
 
 #footer .social-links a:hover {
-  background: #fca311;
+  background:#083a63;
   color: #fff;
   text-decoration: none;
 }

@@ -9,7 +9,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.3.4"
+    "vue": "^3.3.4",
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3",
+    "oh-vue-icons": "^1.0.0-rc3",
+    "vue-remix-icons": "^2.0.3",
+    "vue-router": "^4.1.6",
+    "vue-typed-js": "^0.1.2",
+    "vue-typer": "^1.2.0",
+    "vue-waypoint": "^4.2.5",
+    "vue-writer": "^1.2.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",

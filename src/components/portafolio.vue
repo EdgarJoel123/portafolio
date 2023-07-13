@@ -48,7 +48,7 @@
 
           <div class="artists-thumb">
             <div class="artists-image-wrap">
-              <img src="../img/proyectos/Proyecto UX/Screenshot_1.png" class="artists-image img-fluid" />
+              <img src="../img/proyectos/ProyectoUX/Screenshot_1.png" class="artists-image img-fluid" />
             </div>
 
             <div class="artists-hover">

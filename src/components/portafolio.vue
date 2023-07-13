@@ -84,7 +84,7 @@
 
           <div class="artists-thumb">
             <div class="artists-image-wrap">
-              <img src="../img/proyectos/sistema de alarma/e1dc2b27-ebc5-4de4-b7d3-37369987b0f1.jpg"
+              <img src="../img/proyectos/sistemaAlarma/sistema.jpg"
                 class="artists-image img-fluid" />
             </div>
 
@@ -125,7 +125,7 @@
           <div class="artists-thumb">
             <div class="artists-image-wrap">
               <img
-                src="../img/proyectos/PoryectoDAS/Aplicación web para la gestión de bienes inmobiliarios de la empresa Perez.Co/Screenshot_3.png"
+                src="../img/proyectos/PoryectoDAS/app/Screenshot_3.png"
                 class="artists-image img-fluid" />
             </div>
 
@@ -196,7 +196,7 @@
           </div>
 
           <div class="artists-thumb">
-            <img src="../img/proyectos/proyectoConcurso/WhatsApp Image 2023-07-13 at 12.18.11 PM.jpeg" class="artists-image img-fluid" />
+            <img src="../img/proyectos/proyectoConcurso/WhatsApp1.jpeg" class="artists-image img-fluid" />
 
             <div class="artists-hover">
               <p>

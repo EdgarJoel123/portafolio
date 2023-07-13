@@ -251,6 +251,27 @@
   position: relative;
   overflow: hidden;
   margin-bottom: 100px;
+  height: 300px; /* Ajusta la altura deseada */
+}
+
+.artists-image {
+  border-radius: var(--border-radius-medium);
+  display: block;
+  width: 100%;
+  height: 100%; /* Establece la altura al 100% para ocupar todo el espacio del contenedor */
+  object-fit: cover;
+}
+
+.artists-section {
+  background-color: #fcfcfc;
+  color: #fff;
+  position: relative;
+}
+
+.artists-thumb {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 100px;
 }
 
 .artists-image {

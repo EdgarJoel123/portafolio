@@ -51,15 +51,15 @@
 
 <style scoped>
 .header {
-  background: rgba(12, 11, 9, 0.6);
+  background: rgba(46, 139, 87);
   border-bottom: 1px solid rgba(12, 11, 9, 0.6);
   transition: all 0.5s;
 }
 
 .header.header-scrolled {
   top: 0;
-  background: rgba(0, 0, 0, 0.85);
-  border-bottom: 1px solid #37332a;
+  background: rgba(190, 255, 171, 0.644);
+  border-bottom: 1px solid #006400;
 }
 
 .logo-image {

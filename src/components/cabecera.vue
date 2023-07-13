@@ -7,23 +7,26 @@
 </script>
 
 <template>
-
-<section id="hero" class="d-flex flex-column justify-content-center">
+  <section id="hero" class="d-flex align-items-center justify-content-center text-start">
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
-      <h1>Marcelo Pérez</h1>
+      <h2>Edgar Sánchez</h2>
+      <h1>Junior</h1>
 
-      <p>Soy <span><VueWriter :array="['Desarrollador', 'Diseñador UI/UX']" :eraseSpeed="50" :typeSpeed="100"  /></span></p>
+      <p>
+        <span>
+          <VueWriter :array="['Desarrollador', 'Full Stack con énfasis en Backend']" :eraseSpeed="50" :typeSpeed="100" />
+        </span>
+      </p>
 
       <div class="social-links">
-        <a href="https://api.whatsapp.com/send?phone=593984740238&text=Hola%21%20Quisiera%20contactarme%20con%20Marcelo%20Perez." class="whatsapp" target="_blank"><i><v-icon name="bi-whatsapp" class="i1" scale="2"/></i></a>   
-        <a href="https://www.instagram.com/marce_prez/" class="instagram" target="_blank"><i><v-icon name="co-instagram" class="i1" scale="2"/></i></a>
-        <a href="https://web.facebook.com/marcelo.perez.790" class="facebook" target="_blank"><i><v-icon name="bi-facebook" class="i1" scale="2"/></i></a>
+        <a href="https://api.whatsapp.com/send?phone=593989353272&text=%C2%A1Hola%21%20Me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n" class="whatsapp" target="_blank"><i><v-icon name="bi-whatsapp" class="i1" scale="2"/></i></a>   
+        <a href="https://www.instagram.com/joel_44sanchez24/" class="instagram" target="_blank"><i><v-icon name="co-instagram" class="i1" scale="2"/></i></a>
+        <a href="https://www.facebook.com/edgarjoel.sanchez.12/" class="facebook" target="_blank"><i><v-icon name="bi-facebook" class="i1" scale="2"/></i></a>
         <a href="https://github.com/MarceloIPV" class="github" target="_blank"><i><v-icon name="co-github" class="i1" scale="2"/></i></a>
-        <a href="#" class="linkedin" target="_blank"><i><v-icon name="bi-linkedin" class="i1" scale="2"/></i></a>
+        <a href="https://www.linkedin.com/in/edgar-sanchez-lascano-ba8179213/" class="linkedin" target="_blank"><i><v-icon name="bi-linkedin" class="i1" scale="2"/></i></a>
       </div>
     </div>
-</section><!-- End Hero -->
-
+  </section>
 </template>
 
 <style scoped>
@@ -34,7 +37,7 @@
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right no-repeat;
+  background: url("../img/2_sobre_mi.avif") top right no-repeat;
   background-size: cover;
   position: relative;
   z-index: 3;
@@ -58,6 +61,15 @@
 }
 
 #hero h1 {
+  margin: 0;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 56px;
+  color: #fca311;
+  z-index: 1;
+}
+
+#hero h2 {
   margin: 0;
   font-size: 64px;
   font-weight: 700;

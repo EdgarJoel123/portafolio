@@ -11,23 +11,61 @@
         <div class="col-lg-5 col-12">
           <div class="artists-thumb">
             <div class="artists-image-wrap">
-              <img
-                src="../img/artists/p1.jpg"
-                class="artists-image img-fluid"
-              />
+              <img src="../img/proyectos/ProyectoDP/Screenshot_1.png" class="artists-image img-fluid" />
             </div>
 
             <div class="artists-hover">
               <p>
                 <strong>Nombre:</strong>
-                Perez & Salvador
+                Sistema de gestion de Proyectos
+              </p>
+
+              <p>
+                <strong>% Partcipacion:</strong>
+                100%
               </p>
 
               <p>
                 <strong>Tecnología:</strong>
-                HTML, CSS, JAVASCRIPT
+                HTML, CSS, TYPESCRIPT, JAVA
+              </p>
+              <p>
+                <strong>Año:</strong>
+                2023
               </p>
 
+              <hr />
+
+              <p class="mb-0">
+                <strong>Enlace:</strong>
+                <a href="https://github.com/EdgarJoel123/proyectoDP.git" target="_blank"><v-icon name="co-github"
+                    class="i1" scale="1.4" /> </a>
+                <a href="https://app.eeasa.com.ec/proyectoDP" target="_blank"><v-icon name="fa-firefox-browser" class="i1"
+                    scale="1.4" /> </a>
+              </p>
+            </div>
+          </div>
+
+          <div class="artists-thumb">
+            <div class="artists-image-wrap">
+              <img src="../img/proyectos/Proyecto UX/Screenshot_1.png" class="artists-image img-fluid" />
+            </div>
+
+            <div class="artists-hover">
+              <p>
+                <strong>Nombre:</strong>
+                Sistema UX para la perdida de Cedúlas
+              </p>
+
+              <p>
+                <strong>% Partcipacion:</strong>
+                100%
+              </p>
+
+              <p>
+                <strong>Tecnología:</strong>
+                HTML5, CSS
+              </p>
               <p>
                 <strong>Año:</strong>
                 2021
@@ -37,98 +75,34 @@
 
               <p class="mb-0">
                 <strong>Enlace:</strong>
-                <a href="https://github.com/MarceloIPV/Perez-Salvador-Web-Page"><v-icon name="co-github" class="i1" scale="1.4"/>   </a>
-                <a href="https://perezsalvador.com/"><v-icon name="fa-firefox-browser" class="i1" scale="1.4"/>  </a>
+                <a href="https://github.com/EdgarJoel123/proyectoIHC.git" target="_blank"><v-icon name="co-github"
+                    class="i1" scale="1.4" /> </a>
               </p>
+
             </div>
           </div>
 
           <div class="artists-thumb">
             <div class="artists-image-wrap">
-              <img
-                src="../img/artists/p2.jpg"
-                class="artists-image img-fluid"
-              />
+              <img src="../img/proyectos/sistema de alarma/e1dc2b27-ebc5-4de4-b7d3-37369987b0f1.jpg"
+                class="artists-image img-fluid" />
             </div>
 
             <div class="artists-hover">
               <p>
                 <strong>Nombre:</strong>
-                Inmobiliaria Baños
+                Sistema de alarma La Favorita
+              </p>
+
+              <p>
+                <strong>% Partcipacion:</strong>
+                90%
               </p>
 
               <p>
                 <strong>Tecnología:</strong>
-                Vue JS
+                JAVA, ANDROID, FIREBASE, ONE SIGNAL
               </p>
-
-              <p>
-                <strong>Año:</strong>
-                2022
-              </p>
-
-              <hr />
-
-              <p class="mb-0">
-                <strong>Enlace:</strong>
-                <a href="https://github.com/MarceloIPV/PaginaWebInmobiliaria" target="_blank"><v-icon name="co-github" class="i1" scale="1.4"/>   </a>
-              </p>
-              
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-5 col-12">
-          <div class="artists-thumb">
-            <div class="artists-image-wrap">
-              <img
-                src="../img/artists/p3.jpg"
-                class="artists-image img-fluid"
-              />
-            </div>
-
-            <div class="artists-hover">
-              <p>
-                <strong>Nombre:</strong>
-                Muy Pronto P&S
-              </p>
-
-              <p>
-                <strong>Tecnología:</strong>
-                HTML, CSS, JAVASCRIPT
-              </p>
-
-              <p>
-                <strong>Año:</strong>
-                2021
-              </p>
-
-              <hr />
-
-              <p class="mb-0">
-                <strong>Enlace:</strong>
-                <a href="https://github.com/MarceloIPV/Coming-Soon-P-S" target="_blank"><v-icon name="co-github" class="i1" scale="1.4"/>   </a>
-              </p>
-            </div>
-          </div>
-
-          <div class="artists-thumb">
-            <img
-            src="../img/artists/p4.png"
-              class="artists-image img-fluid"
-            />
-
-            <div class="artists-hover">
-              <p>
-                <strong>Nombre:</strong>
-                Gestión de Clínicas
-              </p>
-
-              <p>
-                <strong>Tecnología:</strong>
-                Angular
-              </p>
-
               <p>
                 <strong>Año:</strong>
                 2020
@@ -138,8 +112,120 @@
 
               <p class="mb-0">
                 <strong>Enlace:</strong>
-                <a href="https://github.com/MarceloIPV/Gestion-Hospitalaria"><v-icon name="co-github" class="i1" scale="1.4"/>   </a>
-                
+                <a href="https://github.com/EdgarJoel123/sistemaAlarma.git" target="_blank"><v-icon name="co-github"
+                    class="i1" scale="1.4" /> </a>
+              </p>
+
+            </div>
+          </div>
+
+        </div>
+
+        <div class="col-lg-5 col-12">
+          <div class="artists-thumb">
+            <div class="artists-image-wrap">
+              <img
+                src="../img/proyectos/PoryectoDAS/Aplicación web para la gestión de bienes inmobiliarios de la empresa Perez.Co/Screenshot_3.png"
+                class="artists-image img-fluid" />
+            </div>
+
+            <div class="artists-hover">
+              <p>
+                <strong>Nombre:</strong>
+                Muy Pronto P&S
+              </p>
+
+              <p>
+                <strong>% Partcipacion:</strong>
+                25%
+              </p>
+
+              <p>
+                <strong>Tecnología:</strong>
+                HTML, CSS, JAVASCRIPT
+              </p>
+
+              <p>
+                <strong>Año:</strong>
+                2021
+              </p>
+
+              <hr />
+
+              <p class="mb-0">
+                <strong>Enlace:</strong>
+                <a href="https://github.com/Santiago-Yambay/proyecto_das.git" target="_blank"><v-icon name="co-github"
+                    class="i1" scale="1.4" /> </a>
+              </p>
+            </div>
+          </div>
+
+          <div class="artists-thumb">
+            <img src="../img/proyectos/ProyectoArmortizacion/Screenshot_2.png" class="artists-image img-fluid" />
+
+            <div class="artists-hover">
+              <p>
+                <strong>Nombre:</strong>
+                Armotizacion Francesa y Alemana
+              </p>
+
+              <p>
+                <strong>% Partcipacion:</strong>
+                75%
+              </p>
+
+              <p>
+                <strong>Tecnología:</strong>
+                Angular, JSON, bootstrap 5
+              </p>
+
+              <p>
+                <strong>Año:</strong>
+                2023
+              </p>
+
+              <hr />
+
+              <p class="mb-0">
+                <strong>Enlace:</strong>
+                <a href="https://github.com/EdgarJoel123/IngenieriaEco.git" target="_blank"><v-icon name="co-github"
+                    class="i1" scale="1.4" /> </a>
+
+              </p>
+            </div>
+          </div>
+
+          <div class="artists-thumb">
+            <img src="../img/proyectos/ProyectoArmortizacion/Screenshot_2.png" class="artists-image img-fluid" />
+
+            <div class="artists-hover">
+              <p>
+                <strong>Nombre:</strong>
+                Sistema web de Concurso (HatunSoft 2023 )
+              </p>
+
+              <p>
+                <strong>% Partcipacion:</strong>
+                80%
+              </p>
+
+              <p>
+                <strong>Tecnología:</strong>
+                Angular, JSON, bootstrap 5
+              </p>
+
+              <p>
+                <strong>Año:</strong>
+                2023
+              </p>
+
+              <hr />
+
+              <p class="mb-0">
+                <strong>Enlace:</strong>
+                <a href="https://github.com/EdgarJoel123/ProyectoConcurso.git" target="_blank"><v-icon name="co-github"
+                    class="i1" scale="1.4" /> </a>
+
               </p>
             </div>
           </div>
@@ -155,7 +241,7 @@
 -----------------------------------------*/
 
 
-.artists-section{
+.artists-section {
   background-color: #fcfcfc;
   color: #fff;
   position: relative;
@@ -164,7 +250,7 @@
 .artists-thumb {
   position: relative;
   overflow: hidden;
-  margin-bottom: 30px;
+  margin-bottom: 100px;
 }
 
 .artists-image {
@@ -216,34 +302,34 @@
 }
 
 @media only screen and (max-width: 500px) {
-      
+
   .artists-hover hr {
-  margin: 2% 0;
-}
-  .artists-hover p  {
- font-size: 90%;
-  margin: 3% 0;
-}
+    margin: 2% 0;
+  }
 
-.artists-hover {
+  .artists-hover p {
+    font-size: 90%;
+    margin: 3% 0;
+  }
 
-  margin: 2%;
-  padding: 3%;
+  .artists-hover {
 
-}
+    margin: 2%;
+    padding: 3%;
+
+  }
 
 
 }
 
 
 @media only screen and (max-width: 278px) {
-      
-     
-      .artists-hover p  {
-     font-size: 60%;
-      margin: 3% 0;
-    }
-    
-    }
 
+
+  .artists-hover p {
+    font-size: 60%;
+    margin: 3% 0;
+  }
+
+}
 </style>

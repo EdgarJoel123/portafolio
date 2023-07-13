@@ -40,7 +40,7 @@
                 <strong>Enlace:</strong>
                 <a href="https://github.com/EdgarJoel123/proyectoDP.git" target="_blank"><v-icon name="co-github"
                     class="i1" scale="1.4" /> </a>
-                <a href="https://app.eeasa.com.ec/proyectoDP" target="_blank"><v-icon name="fa-firefox-browser" class="i1"
+                <a href="https://app.eeasa.com.ec/proyectoDP" target="_blank"><v-icon name="oi-link-external" class="i1"
                     scale="1.4" /> </a>
               </p>
             </div>
@@ -196,7 +196,7 @@
           </div>
 
           <div class="artists-thumb">
-            <img src="../img/proyectos/ProyectoArmortizacion/Screenshot_2.png" class="artists-image img-fluid" />
+            <img src="../img/proyectos/proyectoConcurso/WhatsApp Image 2023-07-13 at 12.18.11 PM.jpeg" class="artists-image img-fluid" />
 
             <div class="artists-hover">
               <p>
@@ -230,6 +230,42 @@
             </div>
           </div>
         </div>
+
+        <div class="artists-thumb">
+            <img src="../img/proyectos/moduloSIMDIS/Captura2.PNG" class="artists-image img-fluid" />
+
+            <div class="artists-hover">
+              <p>
+                <strong>Nombre:</strong>
+               Modulo de carga de archivos de SIMDIS
+              </p>
+
+              <p>
+                <strong>% Partcipacion:</strong>
+                100%
+              </p>
+
+              <p>
+                <strong>Tecnología:</strong>
+                C#, ORACLE
+              </p>
+
+              <p>
+                <strong>Año:</strong>
+                2023
+              </p>
+
+              <hr />
+
+              <p class="mb-0">
+                <strong>Enlace:</strong>
+                <a href="https://github.com/EdgarJoel123/moduloSIMDIS.git" target="_blank"><v-icon name="co-github"
+                    class="i1" scale="1.4" /> </a>
+
+              </p>
+            </div>
+          </div>
+      
       </div>
     </div>
   </section>
@@ -240,6 +276,8 @@
   Portafolio              
 -----------------------------------------*/
 
+
+/* Estilos para el portafolio */
 
 .artists-section {
   background-color: #fcfcfc;
@@ -259,7 +297,7 @@
   display: block;
   width: 100%;
   height: 100%; /* Establece la altura al 100% para ocupar todo el espacio del contenedor */
-  object-fit: cover;
+  object-fit: contain; /* Cambia a 'contain' para ajustar la imagen sin recortarla */
 }
 
 .artists-section {

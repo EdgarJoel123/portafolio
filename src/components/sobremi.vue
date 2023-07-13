@@ -38,11 +38,7 @@ export default {
           <div class="row">
             <div class="col-lg-6 col-xl-7">
               <div class="image-container">
-                <img
-                  class="img-fluid"
-                  src="../img/details-1.png"
-                  alt="alternative"
-                />
+                <img class="img-fluid" src="../img/4_sobre_mi.jpeg" alt="alternative" />
               </div>
               <!-- end of image-container -->
             </div>
@@ -51,18 +47,34 @@ export default {
             <div class="col-lg-6 col-xl-5">
               <div class="text-container ">
 
-                <h3>Hola soy Marcelo Pérez</h3>
+                <h3>Hola soy Edgar Sancchez</h3>
 
-            <p>
-            Soy estudiante de Ingeniería de Software en la Universidad Técnica de Ambato, apasionado por el diseño y creación de aplicaciones web y moviles, además de poseer conocimiento en distintos leguajes de programación como: Java, Python, C#, C++.</p>
+                <p>
+                  Soy un estudiante de octavo semestre de la carrera de Ingeniería en Software en la Universidad Técnica
+                  de Ambato. Me apasiona el desarrollo de aplicaciones web y móviles, y tengo experiencia en diversos
+                  lenguajes de programación, lo cual me permite abordar diferentes proyectos de manera eficiente y
+                  creativa.</p>
 
-            <p>Como Ingeniero de profesión estoy capacitado para dar soluciones optimas, precisas y eficientes a problemas y requerimientos presentes.</p>
+                <p>
+                  Mi enfoque principal se centra en el desarrollo de aplicaciones utilizando lenguajes como Java, Kotlin,
+                  C#, Python, C++ y Dart. Estos lenguajes de programación me han permitido adquirir un conjunto diverso de
+                  habilidades y conocimientos, lo que me brinda la capacidad de adaptarme rápidamente a diferentes
+                  tecnologías y entornos de desarrollo
+                </p>
 
-            <p> Aquí abajo podrás encontrar información adicional sobre mis estudios realizados, cursos de capacitación y experiencia profesional.</p>
+                <p>En mi portafolio encontrarás ejemplos de los proyectos en los que he trabajado, demostrando mi
+                  capacidad para abordar diferentes áreas del desarrollo de software. Mi enfoque en la calidad, la
+                  eficiencia y la usabilidad se refleja en cada uno de mis trabajo</p>
 
 
-          <a class="btn-solid-reg" href="#contact">Curriculum  <v-icon name="hi-download" scale="1.2 " class="i1"/></a>
-        
+
+
+             
+                  <a class="btn-solid-reg" href="/ruta/al/archivo/curriculum.pdf" download="curriculum.pdf">
+                    Curriculum <v-icon name="hi-download" scale="1.2" class="i1" />
+                  </a>
+          
+
               </div>
               <!-- end of text-container -->
             </div>
@@ -90,163 +102,103 @@ export default {
           <div class="progress">
             <span class="skill">Java <i class="val">90%</i></span>
             <div class="progress-bar-wrap">
-              <div
-                class="progress-bar"
-                role="progressbar"
-                aria-valuenow="90"
-                aria-valuemin="0"
-                aria-valuemax="100"
-              ></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="progress">
-            <span class="skill">C# <i class="val">85%</i></span>
+            <span class="skill">Oracle <i class="val">85%</i></span>
             <div class="progress-bar-wrap">
-              <div
-                class="progress-bar"
-                role="progressbar"
-                aria-valuenow="85"
-                aria-valuemin="0"
-                aria-valuemax="100"
-              ></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="progress">
-            <span class="skill">C++ <i class="val">80%</i></span>
+            <span class="skill">C++ <i class="val">20%</i></span>
             <div class="progress-bar-wrap">
-              <div
-                class="progress-bar"
-                role="progressbar"
-                aria-valuenow="80"
-                aria-valuemin="0"
-                aria-valuemax="100"
-              ></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+
+          <div class="progress">
+            <span class="skill">C# <i class="val">50%</i></span>
+            <div class="progress-bar-wrap">
+              <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="progress">
             <span class="skill">kottlin <i class="val">65%</i></span>
             <div class="progress-bar-wrap">
-              <div
-                class="progress-bar"
-                role="progressbar"
-                aria-valuenow="65"
-                aria-valuemin="0"
-                aria-valuemax="100"
-              ></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="progress">
-            <span class="skill">Flutter <i class="val">60%</i></span>
+            <span class="skill">Flutter <i class="val">30%</i></span>
             <div class="progress-bar-wrap">
-              <div
-                class="progress-bar"
-                role="progressbar"
-                aria-valuenow="60"
-                aria-valuemin="0"
-                aria-valuemax="100"
-              ></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="progress">
             <span class="skill">SQL <i class="val">85%</i></span>
             <div class="progress-bar-wrap">
-              <div
-                class="progress-bar"
-                role="progressbar"
-                aria-valuenow="85"
-                aria-valuemin="0"
-                aria-valuemax="100"
-              ></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
-        
+
         </div>
 
         <div class="col-lg-6">
 
-          
+
           <div class="progress">
             <span class="skill">HTML <i class="val">80%</i></span>
             <div class="progress-bar-wrap">
-              <div
-                class="progress-bar"
-                role="progressbar"
-                aria-valuenow="80"
-                aria-valuemin="0"
-                aria-valuemax="100"
-              ></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="progress">
             <span class="skill">css <i class="val">70%</i></span>
             <div class="progress-bar-wrap">
-              <div
-                class="progress-bar"
-                role="progressbar"
-                aria-valuenow="70"
-                aria-valuemin="0"
-                aria-valuemax="100"
-              ></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="progress">
             <span class="skill">JAVASCRIPT <i class="val">60%</i></span>
             <div class="progress-bar-wrap">
-              <div
-                class="progress-bar"
-                role="progressbar"
-                aria-valuenow="60"
-                aria-valuemin="0"
-                aria-valuemax="100"
-              ></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
-          
           <div class="progress">
-            <span class="skill">React <i class="val">45%</i></span>
+            <span class="skill">TYPESCRIPT <i class="val">85%</i></span>
             <div class="progress-bar-wrap">
-              <div
-                class="progress-bar"
-                role="progressbar"
-                aria-valuenow="45"
-                aria-valuemin="0"
-                aria-valuemax="100"
-              ></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="progress">
             <span class="skill">Vue <i class="val">55%</i></span>
             <div class="progress-bar-wrap">
-              <div
-                class="progress-bar"
-                role="progressbar"
-                aria-valuenow="55"
-                aria-valuemin="0"
-                aria-valuemax="100"
-              ></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="progress">
-            <span class="skill">Angular <i class="val">50%</i></span>
+            <span class="skill">Angular <i class="val">80%</i></span>
             <div class="progress-bar-wrap">
-              <div
-                class="progress-bar"
-                role="progressbar"
-                aria-valuenow="50"
-                aria-valuemin="0"
-                aria-valuemax="100"
-              ></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+          <div class="progress">
+            <span class="skill">Sprint Boot <i class="val">70%</i></span>
+            <div class="progress-bar-wrap">
+              <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
         </div>
@@ -257,80 +209,81 @@ export default {
     <!-- ======= Interests ======= -->
     <div class="interests container">
       <div class="section-title">
-        <h2>Intereses</h2>
+        <h2>Pasiones</h2>
       </div>
 
       <div class="row">
-        <div class="col-lg-3 col-md-4">
+       
+        <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
           <div class="icon-box">
-            <i style="color: #4233ff;" ><v-icon name="md-designservices-round" class="i1" scale="1.3"/></i>
-            <h3>Diseño UI/UX</h3>
+            <i style="color: #ffbb2c;"><v-icon name="fa-vr-cardboard" class="i1" scale="1.3" /></i>
+            <h3>Intelgencia Artificial</h3>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
           <div class="icon-box">
-            <i style="color: #ffbb2c;" ><v-icon name="fa-vr-cardboard" class="i1" scale="1.3"/></i>
-            <h3>Realidad Virtual</h3>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
-          <div class="icon-box">
-            <i style="color: #11dbcf;" ><v-icon name="si-adobephotoshop" class="i1" scale="1.3"/></i>
-            <h3>Photoshop</h3>
+            <i style="color: #11dbcf;"><v-icon name="si-adobephotoshop" class="i1" scale="1.3" /></i>
+            <h3>Video Juegos</h3>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
           <div class="icon-box">
-            <i style="color: #b2904f;" ><v-icon name="si-strapi" class="i1" scale="1.3"/></i>
-            <h3>Api's</h3>
+            <i style="color: #b2904f;"><v-icon name="si-strapi" class="i1" scale="1.3" /></i>
+            <h3>Api ResT</h3>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 mt-4">
           <div class="icon-box">
-            <i style="color: #ffbb2c;" ><v-icon name="ri-music-2-fill" class="i1" scale="1.3"/></i>
+            <i style="color: #ffbb2c;"><v-icon name="ri-music-2-fill" class="i1" scale="1.3" /></i>
             <h3>Música</h3>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 mt-4">
           <div class="icon-box">
-            <i style="color: #47aeff;" ><v-icon name="si-youtubegaming" class="i1" scale="1.3"/></i>
-            <h3>Video Juegos</h3>
+            <i style="color: #47aeff;"><v-icon name="si-youtubegaming" class="i1" scale="1.3" /></i>
+            <h3>Ajedrez</h3>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 mt-4">
           <div class="icon-box">
-            <i style="color: #b2904f;" ><v-icon name="si-antdesign" class="i1" scale="1.3"/></i>
-            <h3>Modelismo</h3>
+            <i style="color: #b2904f;"><v-icon name="si-antdesign" class="i1" scale="1.3" /></i>
+            <h3>GYM</h3>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 mt-4">
           <div class="icon-box">
-            <i style="color: #11dbcf;" ><v-icon name="gi-soccer-ball" class="i1" scale="1.3"/></i>
+            <i style="color: #11dbcf;"><v-icon name="gi-soccer-ball" class="i1" scale="1.3" /></i>
             <h3>Futbol</h3>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 mt-4">
           <div class="icon-box">
-            <i style="color: #4233ff;" ><v-icon name="gi-rally-the-troops" class="i1" scale="1.3"/></i>
-            <h3>Rally</h3>
+            <i style="color: #4233ff;"><v-icon name="gi-rally-the-troops" class="i1" scale="1.3" /></i>
+            <h3>Karate</h3>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 mt-4">
           <div class="icon-box">
-            <i style="color: #ff5828;" ><v-icon name="bi-camera2" class="i1" scale="1.3"/></i>
-            <h3>Fotografia</h3>
+            <i style="color: #ff5828;"><v-icon name="bi-camera2" class="i1" scale="1.3" /></i>
+            <h3>Edicion de videos</h3>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 mt-4">
           <div class="icon-box">
-            <i  style="color: #b20969;" ><v-icon name="gi-commercial-airplane" class="i1" scale="1.3"/></i>
-            <h3>Viajes</h3>
+            <i style="color: #b20969;"><v-icon name="gi-commercial-airplane" class="i1" scale="1.3" /></i>
+            <h3>Gatos</h3>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 mt-4">
           <div class="icon-box">
-            <i style="color: #e361ff;" ><v-icon name="la-language-solid" class="i1" scale="1.3"/></i>
-            <h3>Idiomas</h3>
+            <i style="color: #e361ff;"><v-icon name="la-language-solid" class="i1" scale="1.3" /></i>
+            <h3>Baile</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4">
+          <div class="icon-box">
+            <i style="color: #4233ff;"><v-icon name="md-designservices-round" class="i1" scale="1.3" /></i>
+            <h3>Diseño UI/UX</h3>
           </div>
         </div>
       </div>
@@ -386,10 +339,10 @@ export default {
   font-size: 18px;
   text-align: justify;
   text-justify: auto;
- 
+
 }
 
-.basic-1 .btn-solid-reg{
+.basic-1 .btn-solid-reg {
   padding-top: 2%;
   padding-bottom: 2%;
 }
@@ -437,7 +390,7 @@ export default {
   display: block;
   background: none;
   border-radius: 0;
-  
+
 }
 
 .skills .progress .skill {
@@ -470,15 +423,16 @@ export default {
 # Interests
 --------------------------------------------------------------*/
 
-.interests{
+.interests {
   padding-top: 2.25rem;
   padding-bottom: 2.25rem;
   padding-bottom: 5%;
 }
+
 .interests .icon-box {
   display: flex;
   align-items: center;
-  padding: 20px ;
+  padding: 20px;
   background: rgba(255, 255, 255, 0.08);
   transition: ease-in-out 0.3s;
 }
@@ -486,7 +440,7 @@ export default {
 .interests .icon-box i {
   padding-right: 10px;
   line-height: 1;
-  
+
 }
 
 .interests .icon-box h3 {
@@ -498,23 +452,21 @@ export default {
   color: #fff;
 }
 
-.interests .icon-box:hover   {
+.interests .icon-box:hover {
   background: rgba(255, 255, 255, 0.12);
-  
+
 }
 
-.interests .icon-box:hover .i1  {
-  
-  --c:#fca311;
-  color:var(--c);
+.interests .icon-box:hover .i1 {
+
+  --c: #fca311;
+  color: var(--c);
 }
 
 
 .section-title h2 {
 
-  color:var(--light);
- 
+  color: var(--light);
+
 }
-
-
 </style>

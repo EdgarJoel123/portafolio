@@ -85,7 +85,6 @@ font-size: 18px;
 -----------------------------------------*/
 
 #contact {
-  background: url('../images/contact-bg.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center center;

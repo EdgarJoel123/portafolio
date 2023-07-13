@@ -294,7 +294,7 @@
 }
 
 .artists-hover p a:hover {
-  color: #fca311;
+  color: #083a63;
 }
 
 .artists-hover hr {

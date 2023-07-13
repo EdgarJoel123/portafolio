@@ -11,9 +11,9 @@ import VueWriter from "vue-writer"
 
 import { OhVueIcon, addIcons } from "oh-vue-icons"
 
-import { FiHk,FaFlag, RiZhihuFill, MdDesignservicesRound, SiSqlite, SiAdobephotoshop,SiPhp,LaLanguageSolid, GiCommercialAirplane, BiCamera2, GiRallyTheTroops,GiSoccerBall,SiAntdesign, SiYoutubegaming, RiMusic2Fill, PxMenu, CoGithub, BiLinkedin, BiWhatsapp, CoInstagram,BiFacebook, HiDownload, FaFirefoxBrowser,FaVrCardboard, SiStrapi, FaPhoneAlt,HiSolidMail,MdLocationon              } from "oh-vue-icons/icons";
+import { GiArtificialIntelligence,FiHk,FaFlag, RiZhihuFill, MdDesignservicesRound, SiSqlite, SiAdobephotoshop,SiPhp,LaLanguageSolid, GiCommercialAirplane, BiCamera2, GiRallyTheTroops,GiSoccerBall,SiAntdesign, SiYoutubegaming, RiMusic2Fill, PxMenu, CoGithub, BiLinkedin, BiWhatsapp, CoInstagram,BiFacebook, HiDownload, FaFirefoxBrowser,FaVrCardboard, SiStrapi, FaPhoneAlt,HiSolidMail,MdLocationon              } from "oh-vue-icons/icons";
 
-addIcons(FaFlag, RiZhihuFill,FiHk, MdDesignservicesRound, SiSqlite, SiAdobephotoshop,SiPhp,LaLanguageSolid,GiCommercialAirplane, BiCamera2,GiRallyTheTroops, GiSoccerBall,SiAntdesign, SiYoutubegaming,RiMusic2Fill,PxMenu, CoGithub,BiLinkedin, BiWhatsapp, CoInstagram,BiFacebook,HiDownload, FaFirefoxBrowser,FaVrCardboard, SiStrapi, FaPhoneAlt,HiSolidMail,MdLocationon          );
+addIcons(GiArtificialIntelligence,FaFlag, RiZhihuFill,FiHk, MdDesignservicesRound, SiSqlite, SiAdobephotoshop,SiPhp,LaLanguageSolid,GiCommercialAirplane, BiCamera2,GiRallyTheTroops, GiSoccerBall,SiAntdesign, SiYoutubegaming,RiMusic2Fill,PxMenu, CoGithub,BiLinkedin, BiWhatsapp, CoInstagram,BiFacebook,HiDownload, FaFirefoxBrowser,FaVrCardboard, SiStrapi, FaPhoneAlt,HiSolidMail,MdLocationon          );
 
 
 

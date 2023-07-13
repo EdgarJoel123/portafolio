@@ -38,7 +38,7 @@ export default {
           <div class="row">
             <div class="col-lg-6 col-xl-7">
               <div class="image-container">
-                <img class="img-fluid" src="../img/4_sobre_mi.jpeg" alt="alternative" />
+                <img class="img-fluid" src="../img/4_sobre_mi_portada.jpeg" alt="alternative" />
               </div>
               <!-- end of image-container -->
             </div>
@@ -47,7 +47,7 @@ export default {
             <div class="col-lg-6 col-xl-5">
               <div class="text-container ">
 
-                <h3>Hola soy Edgar Sancchez</h3>
+                <h3>Hola soy Edgar Sánchez</h3>
 
                 <p>
                   Soy un estudiante de octavo semestre de la carrera de Ingeniería en Software en la Universidad Técnica
@@ -69,11 +69,11 @@ export default {
 
 
 
-             
-                  <a class="btn-solid-reg" href="/ruta/al/archivo/curriculum.pdf" download="curriculum.pdf">
-                    Curriculum <v-icon name="hi-download" scale="1.2" class="i1" />
-                  </a>
-          
+
+                <a class="btn-solid-reg" href="/ruta/al/archivo/curriculum.pdf" download="curriculum.pdf">
+                  Curriculum <v-icon name="hi-download" scale="1.2" class="i1" />
+                </a>
+
 
               </div>
               <!-- end of text-container -->
@@ -90,11 +90,88 @@ export default {
     <!-- End About Me -->
 
     <!-- End Counts -->
+    <!-- ======= Interests ======= -->
+    <div class="interests container">
+      <div class="section-title">
+        <h2>Pasiones</h2>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+          <div class="icon-box">
+            <i style="color: #ff2c2c;"><v-icon name="fa-vr-cardboard" class="i1" scale="1.3" /></i>
+            <h3>Intelgencia Artificial</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+          <div class="icon-box">
+
+            <h3>Video Juegos</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+          <div class="icon-box">
+            <i style="color: #b2904f;"><v-icon name="si-strapi" class="i1" scale="1.3" /></i>
+            <h3>Api ResT</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+          <div class="icon-box">
+            <i style="color: #ffbb2c;"><v-icon name="ri-music-2-fill" class="i1" scale="1.3" /></i>
+            <h3>Música</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i style="color: #47aeff;"><v-icon name="si-youtubegaming" class="i1" scale="1.3" /></i>
+            <h3>Ajedrez</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i style="color: #b2904f;"><v-icon name="si-antdesign" class="i1" scale="1.3" /></i>
+            <h3>GYM</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i style="color: #11dbcf;"><v-icon name="gi-soccer-ball" class="i1" scale="1.3" /></i>
+            <h3>Futbol</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i style="color: #4233ff;"><v-icon name="gi-rally-the-troops" class="i1" scale="1.3" /></i>
+            <h3>Karate</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i style="color: #ff5828;"><v-icon name="bi-camera2" class="i1" scale="1.3" /></i>
+            <h3>Edicion de videos</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <h3>Baile</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i style="color: #4233ff;"><v-icon name="md-designservices-round" class="i1" scale="1.3" /></i>
+            <h3>Diseño UI/UX</h3>
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+    <!-- End Interests -->
 
     <!-- ======= Skills  ======= -->
     <div class="skills container">
       <div class="section-title">
-        <h2>Habilidades</h2>
+        <h2>% Habilidades</h2>
       </div>
 
       <div class="row skills-content">
@@ -183,9 +260,9 @@ export default {
           </div>
 
           <div class="progress">
-            <span class="skill">Vue <i class="val">55%</i></span>
+            <span class="skill">Vue <i class="val">35%</i></span>
             <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
@@ -204,91 +281,12 @@ export default {
         </div>
       </div>
     </div>
+    <br>
+    <br>
+    <br>
+    <br>
     <!-- End Skills -->
 
-    <!-- ======= Interests ======= -->
-    <div class="interests container">
-      <div class="section-title">
-        <h2>Pasiones</h2>
-      </div>
-
-      <div class="row">
-       
-        <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
-          <div class="icon-box">
-            <i style="color: #ffbb2c;"><v-icon name="fa-vr-cardboard" class="i1" scale="1.3" /></i>
-            <h3>Intelgencia Artificial</h3>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
-          <div class="icon-box">
-            <i style="color: #11dbcf;"><v-icon name="si-adobephotoshop" class="i1" scale="1.3" /></i>
-            <h3>Video Juegos</h3>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
-          <div class="icon-box">
-            <i style="color: #b2904f;"><v-icon name="si-strapi" class="i1" scale="1.3" /></i>
-            <h3>Api ResT</h3>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 mt-4">
-          <div class="icon-box">
-            <i style="color: #ffbb2c;"><v-icon name="ri-music-2-fill" class="i1" scale="1.3" /></i>
-            <h3>Música</h3>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 mt-4">
-          <div class="icon-box">
-            <i style="color: #47aeff;"><v-icon name="si-youtubegaming" class="i1" scale="1.3" /></i>
-            <h3>Ajedrez</h3>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 mt-4">
-          <div class="icon-box">
-            <i style="color: #b2904f;"><v-icon name="si-antdesign" class="i1" scale="1.3" /></i>
-            <h3>GYM</h3>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 mt-4">
-          <div class="icon-box">
-            <i style="color: #11dbcf;"><v-icon name="gi-soccer-ball" class="i1" scale="1.3" /></i>
-            <h3>Futbol</h3>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 mt-4">
-          <div class="icon-box">
-            <i style="color: #4233ff;"><v-icon name="gi-rally-the-troops" class="i1" scale="1.3" /></i>
-            <h3>Karate</h3>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 mt-4">
-          <div class="icon-box">
-            <i style="color: #ff5828;"><v-icon name="bi-camera2" class="i1" scale="1.3" /></i>
-            <h3>Edicion de videos</h3>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 mt-4">
-          <div class="icon-box">
-            <i style="color: #b20969;"><v-icon name="gi-commercial-airplane" class="i1" scale="1.3" /></i>
-            <h3>Gatos</h3>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 mt-4">
-          <div class="icon-box">
-            <i style="color: #e361ff;"><v-icon name="la-language-solid" class="i1" scale="1.3" /></i>
-            <h3>Baile</h3>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4">
-          <div class="icon-box">
-            <i style="color: #4233ff;"><v-icon name="md-designservices-round" class="i1" scale="1.3" /></i>
-            <h3>Diseño UI/UX</h3>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- End Interests -->
   </section>
   <!-- End About Section -->
 </template>
@@ -305,9 +303,10 @@ export default {
 #about::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
+  background: #040404 url("../img/5_sobre_mi.jpg") top right no-repeat;
   background-size: cover;
-  box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.836);
+  box-shadow: inset 0 0 0 2000px rgba(109, 133, 184, 0.671);
+
   left: 0;
   right: 0;
   top: 0;
@@ -416,7 +415,7 @@ export default {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #18d26e;
+  background-color: #d27218;
 }
 
 /*--------------------------------------------------------------
@@ -466,7 +465,12 @@ export default {
 
 .section-title h2 {
 
-  color: var(--light);
+  color: #083a63;
+
+}
+
+#h3 {
+  color: #083a63;
 
 }
 </style>

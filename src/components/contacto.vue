@@ -21,7 +21,7 @@
             <a href="" class="ii1"><i><v-icon name="md-locationon" class="i1" scale="1.7" fill="white"/></i></a>
           <h3>Dirección</h3>
           <address class="wow fadeInUp" data-wow-delay="0.4s">
-            <p>Av. Los Chasquis y Oriente<br>Multifamiliares Bellavista <br>Ambato-Ecuador
+            <p>Av. Las What Disney<br>Platón<br>Ambato-Ecuador
             </p>
           </address>
         </div>
@@ -31,7 +31,7 @@
         <div class="contact-phone">
             <a href="" class="ii1"><i><v-icon name="fa-phone-alt" class="i1" scale="1.7" fill="white"/></i></a>
           <h3>Contacto</h3>
-          <p><a href="tel:+593 984740238">+593 984 740 238</a></p>
+          <p><a href="https://api.whatsapp.com/send?phone=593989353272&text=%C2%A1Hola%21%20Me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n">+593 989353272</a></p>
         </div>
       </div>
 
@@ -39,15 +39,9 @@
         <div class="Email">
          <a href="" class="ii1"><i><v-icon name="hi-solid-mail" class="i1" scale="1.7" fill="white"/></i></a>
           <h3>Email</h3>
-          <p><a href="mailto:mperez8246@uta.edu.ec">mperez8246@uta.edu.ec</a></p>
+          <p><a href="mailto:esanchez11696.edu.ec">esanchez11696@uta.edu.ec</a></p>
         </div>
       </div>
-    </div>
-
-    <div class="map space-set section-header wow fadeInUp">
-      <iframe
-        src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d496.82952848834947!2d-78.6219676572421!3d-1.247211656751007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sec!4v1675970155110!5m2!1ses-419!2sec"
-        width="100%" height="100%" style="border: 0" allowfullscreen="" loading="Beautiful" zoom="15"></iframe>
     </div>
       </div>
 </section>

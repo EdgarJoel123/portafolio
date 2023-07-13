@@ -3,28 +3,29 @@
 
 
 <template>
+  <section id="footer">
+    <div class="container">
+      <div class="social-links">
+        <a href="https://api.whatsapp.com/send?phone=593989353272&text=%C2%A1Hola%21%20Me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n"
+          class="whatsapp" target="_blank"><i><v-icon name="bi-whatsapp" class="i1" scale="1" /></i></a>
+        <a href="https://www.instagram.com/joel_44sanchez24/" class="instagram" target="_blank"><i><v-icon
+              name="co-instagram" class="i1" scale="1" /></i></a>
+        <a href="https://www.facebook.com/edgarjoel.sanchez.12/" class="facebook" target="_blank"><i><v-icon
+              name="bi-facebook" class="i1" scale="1" /></i></a>
+        <a href="https://www.linkedin.com/in/edgar-sanchez-lascano-ba8179213/" class="github" target="_blank"><i><v-icon
+              name="co-github" class="i1" scale="1" /></i></a>
+        <a href="https://www.linkedin.com/in/edgar-sanchez-lascano-ba8179213/" class="linkedin" target="_blank"><i><v-icon name="bi-linkedin" class="i1" scale="1" /></i></a>
+      </div>
 
-<section id="footer">
-<div class="container">
-    <div class="social-links">
-        <a href="https://api.whatsapp.com/send?phone=593984740238&text=Hola%21%20Quisiera%20contactarme%20con%20Marcelo%20Perez." class="whatsapp" target="_blank"><i><v-icon name="bi-whatsapp" class="i1" scale="1"/></i></a>   
-        <a href="https://www.instagram.com/marce_prez/" class="instagram" target="_blank"><i><v-icon name="co-instagram" class="i1" scale="1"/></i></a>
-        <a href="https://web.facebook.com/marcelo.perez.790" class="facebook" target="_blank"><i><v-icon name="bi-facebook" class="i1" scale="1"/></i></a>
-        <a href="https://github.com/MarceloIPV" class="github" target="_blank"><i><v-icon name="co-github" class="i1" scale="1"/></i></a>
-        <a href="#" class="linkedin" target="_blank"><i><v-icon name="bi-linkedin" class="i1" scale="1"/></i></a>
+      <div class="copyright">
+        &copy; Copyright <strong><span>Edgar Sánchez</span></strong>. All Rights Reserved
+      </div>
+
     </div>
-
-    <div class="copyright">
-      &copy; Copyright <strong><span>Marcelo Pérez</span></strong>. All Rights Reserved
-    </div>
-   
-  </div>
-</section>
-
+  </section>
 </template>
 
 <style scoped>
-
 #footer {
   background: #f7f8f9;
   color: #45505b;

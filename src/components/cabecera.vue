@@ -10,6 +10,7 @@
   <section id="hero" class="d-flex align-items-center justify-content-center text-start">
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
       <h2>Edgar Sánchez</h2>
+      <br>
       <h1>Junior</h1>
 
       <p>
@@ -37,7 +38,7 @@
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/2_sobre_mi.avif") top right no-repeat;
+  background: url("../img/1_cabecera.jpg") top right no-repeat;
   background-size: cover;
   position: relative;
   z-index: 3;
@@ -51,7 +52,7 @@
 
 #hero:before {
   content: "";
-  background: rgba(0, 0, 0, 0.671);
+  background: rgba(109, 133, 184, 0.671);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -65,7 +66,7 @@
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #fca311;
+  color: #ffffff;
   z-index: 1;
 }
 
@@ -74,12 +75,12 @@
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #fca311;
+  color:  #ffffff;
   z-index: 1;
 }
 
 #hero p {
-  color: #e5e5e5;
+  color: #1411e7;
   margin: 15px 0 0 0;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
@@ -87,7 +88,7 @@
 }
 
 #hero p span {
-  color: #fca311;
+  color:  #063f13;
   letter-spacing: 1px;
   z-index: 1;
 }
@@ -108,7 +109,7 @@
 }
 
 #hero .social-links a:hover {
-  color: #0563bb;
+  color: #083a63;
   z-index: 1;
 }
 

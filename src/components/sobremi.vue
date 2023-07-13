@@ -99,13 +99,13 @@ export default {
       <div class="row">
         <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
           <div class="icon-box">
-            <i style="color: #ff2c2c;"><v-icon name="fa-vr-cardboard" class="i1" scale="1.3" /></i>
+            <i style="color: #ff2c2c;"><v-icon name="gi-artificial-intelligence" class="i1" scale="1.3" /></i>
             <h3>Intelgencia Artificial</h3>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
           <div class="icon-box">
-
+            <i style="color: #2cff48;"><v-icon name="io-game-controller-sharp" class="i1" scale="1.3" /></i>
             <h3>Video Juegos</h3>
           </div>
         </div>
@@ -123,13 +123,13 @@ export default {
         </div>
         <div class="col-lg-3 col-md-4 mt-4">
           <div class="icon-box">
-            <i style="color: #47aeff;"><v-icon name="si-youtubegaming" class="i1" scale="1.3" /></i>
+            <i style="color: #47ffff;"><v-icon name="gi-chess-queen" class="i1" scale="1.3" /></i>
             <h3>Ajedrez</h3>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 mt-4">
           <div class="icon-box">
-            <i style="color: #b2904f;"><v-icon name="si-antdesign" class="i1" scale="1.3" /></i>
+            <i style="color: #e27d2b;"><v-icon name="md-sportsgymnastics-outlined" class="i1" scale="1.3" /></i>
             <h3>GYM</h3>
           </div>
         </div>
@@ -141,7 +141,7 @@ export default {
         </div>
         <div class="col-lg-3 col-md-4 mt-4">
           <div class="icon-box">
-            <i style="color: #4233ff;"><v-icon name="gi-rally-the-troops" class="i1" scale="1.3" /></i>
+            <i style="color: #000000;"><v-icon name="co-hackaday" class="i1" scale="1.3" /></i>
             <h3>Karate</h3>
           </div>
         </div>
@@ -153,6 +153,7 @@ export default {
         </div>
         <div class="col-lg-3 col-md-4 mt-4">
           <div class="icon-box">
+            <i style="color: #2fff28;"><v-icon name="bi-reddit" class="i1" scale="1.3" /></i>
             <h3>Baile</h3>
           </div>
         </div>
@@ -161,8 +162,12 @@ export default {
             <i style="color: #4233ff;"><v-icon name="md-designservices-round" class="i1" scale="1.3" /></i>
             <h3>Diseño UI/UX</h3>
           </div>
-
-
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i style="color: #01000a;"><v-icon name="gi-cat" class="i1" scale="1.3" /></i>
+            <h3>Gatos</h3>
+          </div>
         </div>
       </div>
     </div>
@@ -399,7 +404,7 @@ export default {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #fff;
+  color: #ffffff;
 }
 
 .skills .progress .skill .val {
@@ -415,7 +420,7 @@ export default {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #d27218;
+  background-color: #f58721;
 }
 
 /*--------------------------------------------------------------
@@ -432,7 +437,7 @@ export default {
   display: flex;
   align-items: center;
   padding: 20px;
-  background: rgba(255, 255, 255, 0.08);
+  background: rgba(124, 19, 245, 0.08);
   transition: ease-in-out 0.3s;
 }
 
@@ -458,7 +463,7 @@ export default {
 
 .interests .icon-box:hover .i1 {
 
-  --c: #fca311;
+  --c: #083a63;
   color: var(--c);
 }
 

@@ -11,9 +11,10 @@ import VueWriter from "vue-writer"
 
 import { OhVueIcon, addIcons } from "oh-vue-icons"
 
-import { GiArtificialIntelligence,FiHk,FaFlag, RiZhihuFill, MdDesignservicesRound, SiSqlite, SiAdobephotoshop,SiPhp,LaLanguageSolid, GiCommercialAirplane, BiCamera2, GiRallyTheTroops,GiSoccerBall,SiAntdesign, SiYoutubegaming, RiMusic2Fill, PxMenu, CoGithub, BiLinkedin, BiWhatsapp, CoInstagram,BiFacebook, HiDownload, FaFirefoxBrowser,FaVrCardboard, SiStrapi, FaPhoneAlt,HiSolidMail,MdLocationon              } from "oh-vue-icons/icons";
+import {GiCat,BiReddit, CoHackaday, MdSportsgymnasticsOutlined ,GiChessQueen, IoGameControllerSharp, GiArtificialIntelligence,FiHk,FaFlag, RiZhihuFill, MdDesignservicesRound, SiSqlite, SiAdobephotoshop,SiPhp,LaLanguageSolid, GiCommercialAirplane, BiCamera2, GiRallyTheTroops,GiSoccerBall,SiAntdesign, SiYoutubegaming, RiMusic2Fill, PxMenu, CoGithub, BiLinkedin, BiWhatsapp, CoInstagram,BiFacebook, HiDownload, FaFirefoxBrowser,FaVrCardboard, SiStrapi, FaPhoneAlt,HiSolidMail,MdLocationon              } from "oh-vue-icons/icons";
 
-addIcons(GiArtificialIntelligence,FaFlag, RiZhihuFill,FiHk, MdDesignservicesRound, SiSqlite, SiAdobephotoshop,SiPhp,LaLanguageSolid,GiCommercialAirplane, BiCamera2,GiRallyTheTroops, GiSoccerBall,SiAntdesign, SiYoutubegaming,RiMusic2Fill,PxMenu, CoGithub,BiLinkedin, BiWhatsapp, CoInstagram,BiFacebook,HiDownload, FaFirefoxBrowser,FaVrCardboard, SiStrapi, FaPhoneAlt,HiSolidMail,MdLocationon          );
+addIcons(GiCat,BiReddit, CoHackaday, MdSportsgymnasticsOutlined , GiChessQueen, IoGameControllerSharp, GiArtificialIntelligence,FaFlag, RiZhihuFill,FiHk, MdDesignservicesRound, SiSqlite, SiAdobephotoshop,SiPhp,LaLanguageSolid,GiCommercialAirplane, BiCamera2,GiRallyTheTroops, GiSoccerBall,SiAntdesign, SiYoutubegaming,RiMusic2Fill,PxMenu, CoGithub,BiLinkedin, BiWhatsapp, CoInstagram,BiFacebook,HiDownload, FaFirefoxBrowser,FaVrCardboard, SiStrapi, FaPhoneAlt,HiSolidMail,MdLocationon          );
+
 
 
 

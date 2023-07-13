@@ -413,7 +413,7 @@ export default {
 }
 
 .skills .progress-bar-wrap {
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(146, 21, 21, 0.2);
 }
 
 .skills .progress-bar {
@@ -437,7 +437,7 @@ export default {
   display: flex;
   align-items: center;
   padding: 20px;
-  background: rgba(124, 19, 245, 0.08);
+  background: rgba(64, 13, 122, 0.603);
   transition: ease-in-out 0.3s;
 }
 

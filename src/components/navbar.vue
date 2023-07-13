@@ -58,7 +58,7 @@
 
 .header.header-scrolled {
   top: 0;
-  background: rgba(131, 164, 255, 0.644);
+  background: rgba(76, 152, 116, 0.481);
   border-bottom: 1px solid #00199694;
 }
 
